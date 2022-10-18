@@ -8,7 +8,7 @@ Today I built a quite simple calculator however it made me realize that I had to
 
 Loops: 
 
-And it is that the loops are an easy thing when we use the tap key but it needs a little of my attention so as not to depend on any key (I hate you tab key, I really love my dog 🤷‍♂️💕  ).
+And it is that the loops are an easy thing when we use the tap key but it needed a little of my attention so as not to depend on any key (I hate you tab key, I really love my dog 🤷‍♂️💕  ).
 
 ###### ACQUIRED SKILLS: 
 
